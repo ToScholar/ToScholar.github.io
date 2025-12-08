@@ -46283,11 +46283,13 @@ l=new A.alD(j,i,b)
 s=7
 return A.F(m.giE().ex(0,$.LX().giA(),t.nT).lD(0,l),$async$lD)
 case 7:k=d
-j=m.c
-if(j==null){n=[1]
+if(m.c==null){n=[1]
 s=5
 break}if(k==null){j=A.id(B.mn)
-throw A.h(j)}A.TZ(j,k)
+throw A.h(j)}v.G.window.alert("\ub9cc\ub098\uc11c \ubc18\uac11\uc2b5\ub2c8\ub2e4.\n\ub0b4\uc77c\ubd80\ud130 \uc624\uc804 9\uc2dc\uc5d0 \ub9e4\uc77c \ub17c\ubb38 \uc694\uc57d\uc744 \uba54\uc77c\uacfc ToScholar \uc5d0\uc11c \ud655\uc778\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.")
+j=m.c
+j.toString
+A.TZ(j,k)
 n.push(6)
 s=5
 break
